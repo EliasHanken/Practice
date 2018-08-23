@@ -1,0 +1,11 @@
+name: Practice
+version: 1.0
+author: Streafe
+main: me.streafe.practice.Practice
+description: Practice Plugin v1.0
+
+commands:
+    practice:
+        description: Main Practice Command
+        usage: /<command>
+        default: true
